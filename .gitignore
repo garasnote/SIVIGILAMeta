@@ -1,0 +1,12 @@
+#ignore cache files
+__pycache__
+
+#ignore private files
+DB/original/RIPS T1 2024 META
+DB/original/VIGILANCIA
+
+#ignore cleaned DB
+DB/cleaned
+
+#Way too big to be uploaded to GitHub
+DB/original/RIPS/*.csv
